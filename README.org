@@ -1,4 +1,15 @@
-# systematic-program-design
+#+TITLE:  systematic-program-design
+#+AUTHOR: THirumal Ravula
+#+DATE: [2016-07-02 Sat]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
 All work from 'Systematic Program Design' Courses
 
-[[https://www.edx.org/xseries/how-code-systematic-program-design#courses][The Course Link]]
+* [[https://www.edx.org/xseries/how-code-systematic-program-design#courses][The Course Link]]
+
+* Configuring Emacs for Racket
+  - [[https://github.com/greghendershott/racket-mode][Racket Mode]]
+  - [[https://github.com/greghendershott/racket-mode/blob/master/Reference.md][Commands]]
